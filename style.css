@@ -106,3 +106,15 @@ transform:translateY(-5px);
 #contact p{
 font-size:1.1rem;
 }
+.card:hover{
+transform:translateY(-10px);
+box-shadow:0 10px 30px rgba(37,99,235,.3);
+}
+
+nav a:hover{
+color:#60a5fa;
+}
+
+button:hover{
+background:#1d4ed8;
+}
